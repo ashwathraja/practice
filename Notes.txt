@@ -1,0 +1,9 @@
+git reset --soft cid ---->from loalrepo  to stage
+git reset head filename    ----> stage to work
+git reset --mixed cid  ---> localrepo to work
+git log 
+git log -2
+git log --oneline -3
+git log --author=name
+git log --since=yy-mm-dd
+git log --until=yy-mm-dd
