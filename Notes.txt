@@ -1,4 +1,4 @@
-git reset --soft cid ---->from loalrepo  to stage
+git reset --soft cid ---->from localrepo  to stage
 git reset head filename    ----> stage to work
 git reset --mixed cid  ---> localrepo to work
 git log 
